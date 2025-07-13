@@ -89,9 +89,11 @@ TabExtend.com: 一款帮助管理浏览器标签页和笔记的效率工具。
 
 - 平衡多个项目: 他同时维护多个产品，可以从他那里学到如何管理时间和精力。
 
-好的，除了之前提到的几位非常知名的代表人物，这里再为你列举一批同样热衷于“公开构建”（Build in Public）且各具特色的独立开发者。他们有的专注于特定领域，有的则处在不同的发展阶段，能为你提供更多元的视角。
+## Build in Public
 
-1. Xavier Coiffard (@xaviercoiffard) - 专注于AI应用
+除了之前提到的几位非常知名的代表人物，这里再为你列举一批同样热衷于“公开构建”（Build in Public）且各具特色的独立开发者。他们有的专注于特定领域，有的则处在不同的发展阶段，能为你提供更多元的视角。
+
+1. Xavier Coiffard ([@xaviercoiffard](https://x.com/xavier_coiffard)) - 专注于AI应用
 Xavier是一位在AI领域进行“公开构建”的开发者，他的旅程展示了如何快速抓住AI浪潮中的机会。
 
 代表项目:
@@ -110,7 +112,7 @@ Twitter/X: @xaviercoiffard 他会实时分享产品的用户增长、收入数�
 
 直面竞争: AI应用领域竞争激烈，观察他如何应对竞争、找到自己的差异化优势，对新人很有启发。
 
-2. Damon Chen (@damengchen) - 专注于浏览器插件
+2. Damon Chen ([@damengchen](https://x.com/damengchen)) - 专注于浏览器插件
 Damon专注于开发浏览器插件，这是一个相对小众但潜力巨大的领域。他的分享很适合那些想从小型项目切入的开发者。
 
 代表项目:
