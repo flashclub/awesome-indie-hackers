@@ -1,4 +1,4 @@
-Pieter Levels (@levelsio)
+Pieter Levels ([@levelsio](https://x.com/levelsio))
 
 简介: 独立开发界的传奇人物，以其“12个月内创造12个创业项目”的挑战而闻名。他是 Nomad List (数字游民社区) 和 Remote OK (远程工作招聘网站) 的创始人。
 
